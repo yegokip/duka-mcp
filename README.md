@@ -1,4 +1,4 @@
- ![Demo](secreenshot.jpeg)
+ ![Demo]([(https://github.com/yegokip/duka-mcp/blob/main/secreen.jpeg))
 # Duka MCP Server
 
 An MCP server that lets an AI assistant run a small shop in plain conversation: track stock and sales, send supplier orders on WhatsApp, and show a live dashboard. Built with the official MCP Python SDK. Prices are in KES.
