@@ -1,7 +1,7 @@
 # Duka MCP Server
 
 An MCP server that lets an AI assistant help run a small shop: check stock, record sales, flag low inventory, and summarize daily revenue (in KES). Built with the official MCP Python SDK.
-
+ ![Demo](PAGE.png) 
 ## Tools
 
 | Tool | What it does |
